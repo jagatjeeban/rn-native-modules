@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["RnHapticsModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.rnhaptics.RnHapticsModule"]
+  }
+}
